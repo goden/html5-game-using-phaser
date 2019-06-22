@@ -28,9 +28,9 @@ Follow the below steps to complete the deployment:
 
 Open the control panel as below illustration (on MAC):
 
-![](/Users/goden/dev/src/phaser/html5-game-using-phaser/img/capture01.png)
+![](/img/capture01.png)
 
 Click **Start** to launch all services including Apache. Open the page by entering the IP address on the browser.
 
-![](/Users/goden/dev/src/phaser/html5-game-using-phaser/img/capture02.png)
+![](/img/capture02.png)
 
