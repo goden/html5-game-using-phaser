@@ -28,7 +28,7 @@ Follow the below steps to complete the deployment:
 
 Open the control panel as below illustration (on MAC):
 
-![](/img/capture01.png)
+![](/img/capture01.png=100x100)
 
 Click **Start** to launch all services including Apache. Open the page by entering the IP address on the browser.
 
