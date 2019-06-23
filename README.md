@@ -36,3 +36,11 @@ Click **Start** to launch all services including Apache. Open the page by enteri
 
 Click **Start** to launch all services including Apache. Open the page by entering the IP address on the browser.
 
+## Set Up Game Folder Directory
+
+On Mac, the default xampp folder is **/opt/lampp**. Mount the default folder by opening the control panel and switch to the **Volumes** tab. Click **Explore** button to open the Finder. 
+
+Create the folder named **games**, and create **basicTemplate** folder under the **games**. Create the **js** and **images** folders to place the javascript files and images. 
+
+Browse the page by accessing the http://ip_address/games.(**ip_address** is the IP address of the hosted computer, refer to **Deploy XAMPP** section. ) If works, the page will display. The folders has been created for the later phaser development.
+
