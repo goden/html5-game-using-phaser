@@ -34,3 +34,5 @@ Click **Start** to launch all services including Apache. Open the page by enteri
 
 ![](./img/capture02.png)
 
+Click **Start** to launch all services including Apache. Open the page by entering the IP address on the browser.
+
