@@ -44,3 +44,15 @@ Create the folder named **games**, and create **basicTemplate** folder under the
 
 Browse the page by accessing the http://ip_address/games.(**ip_address** is the IP address of the hosted computer, refer to **Deploy XAMPP** section. ) If works, the page will display. The folders has been created for the later phaser development.
 
+## Download Phaser Library
+
+The current stable version I download is **3.18.1**. For learning purpose, download the mininum file instead of npm and place the file in the **<game_directory>/games/js**. (**game_directory** is the xamp folder in the aforementioned section.)
+
+## Making a Basic Template
+
+In aforementioned section, the **basicTemplate** folder has been created. Open the browser by accessing the url of phasergames.com. Select the **SNIPPETS** > **Phaser 3 Snippet** > **Phaser 3 Starter Snippet** item from the toolbar. We will refer this paragraph to complete the template.
+
+The final result are placed on the **basicTemplate** folder and refers to the folder for further details.
+
+
+
